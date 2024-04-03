@@ -8,10 +8,7 @@ blurb:
 intro:
 
   heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. NEW CONTENTd fasf
+  text: Ten years ago, FOFA (Forth on Fourth Avenue) sponsored a community survey and stakeholder meeting to focus attention on and garner resources for our stretch of Brooklyn’s 4th Ave. Close to 400 people took the survey and we had a standing-room only crowd at the stakeholder meeting. Today, with dramatic physical changes along 4th Ave and adjacent neighborhoods, as well as a new population influx, we are again inviting community opinions and partnering with local organizations (like yours) to circulate a follow-up survey. Survey results will be tabulated and distributed prior to a public meeting on Wednesday May 15 at the Old Stone House. We are inviting elected officials, key city agencies and YOU to join us in the discussion at that meeting. This is your chance to express your views about 4th Ave. We need YOUR input!
 
 
 
