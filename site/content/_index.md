@@ -1,35 +1,22 @@
 ---
 title: Forth on Fourth Avenue
 subtitle: Working together for a better 4th Avenue
-image: /img/home-jumbotron.jpg
+image: img/greening-day.webp
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: JOIN US FOR A GREENER, SAFER and MORE RESILIENT 4th AVENUE!
+  text: test
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
-products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  heading: test
+  text: test
+products: []
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Who We Are
+  text: "FOFA is a local community group that has been advocating for a safer,
+    cleaner, greener, and more vibrant 4th Ave (from Times Plaza to Prospect
+    Expressway) for over a decade. We, working with others, advocated for 4th
+    Ave safety improvements (including the bike lane), for planting over 100
+    trees (many with tree guards), for preservation of the Pacific Street
+    Library, and for temporary art at the 4th Ave/9th St subway station. We have
+    also sponsored clean-ups and tree bed planting - those daffodils on 4th Ave
+    were planted by us and our friends! "
 ---
