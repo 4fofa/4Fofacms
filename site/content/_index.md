@@ -1,6 +1,6 @@
 ---
 title: Forth on Fourth Avenue
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Working together for a better 4th Avenue
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
