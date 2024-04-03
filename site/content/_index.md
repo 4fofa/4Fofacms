@@ -2,9 +2,11 @@
 title: Forth on Fourth Avenue
 subtitle: Working together for a better 4th Avenue
 image: img/greening-day.webp
+<!--
 blurb:
   heading: JOIN US FOR A GREENER, SAFER and MORE RESILIENT 4th AVENUE!
   text: test
+-->
 intro:
 
   heading: What we offer
